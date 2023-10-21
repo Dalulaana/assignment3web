@@ -1,0 +1,31 @@
+  
+    .example {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    }
+  
+  
+    .example h1 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 3em;
+    margin-top: 0;
+    margin-bottom: 10px;
+    }
+  
+    .example h1 {
+      font-size: 2.5em;
+    }
+  
+.box {
+    display: flex;
+    justify-content: center;
+} 
+
+.accordion {
+  padding: 80px;
+}
